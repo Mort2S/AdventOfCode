@@ -18,8 +18,12 @@
   },
   "homepage": "https://github.com/Mort2S/AdventOfCode#readme",
   "devDependencies": {
+    "@types/is-odd": "^3.0.4",
     "@types/node": "^26.6.6",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "is-odd": "^3.0.1"
   }
 }
