@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Advent of Code Inputs
+**/input.txt
+
+# TypeScript Build Output
+dist/
+build/
+*.tsbuildinfo
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
